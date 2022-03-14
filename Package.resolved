@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GL",
+        "repositoryURL": "https://github.com/XeresRazor/swift-opengl.git",
+        "state": {
+          "branch": "master",
+          "revision": "aa8ed1bee08b87c5e200f7b42d12e491542b45dd",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftGLFW",
+        "repositoryURL": "https://github.com/SwiftGameLib/SwiftGLFW.git",
+        "state": {
+          "branch": null,
+          "revision": "5e5f316ae24896c586fddf26918ab0443fb3cec8",
+          "version": "0.0.1"
+        }
+      },
+      {
+        "package": "XML",
+        "repositoryURL": "https://github.com/kelvin13/swiftxml",
+        "state": {
+          "branch": "master",
+          "revision": "91ae89c58e5a478191c27d44c31bd9bae281fefd",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
